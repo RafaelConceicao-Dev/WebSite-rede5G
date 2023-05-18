@@ -1,0 +1,86 @@
+/* <!-- RAFAEL DA CONCEIÇÃO - BSI-1P --> */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+td + td {
+    border-left: 1px solid black;
+}
+
+tr:hover {
+    background-color: #f5f5f5;
+
+}
+th{
+    text-align: center;
+}
+
+
+
+
+
+
+/*Codigo acima é teste */
+
+
+button {
+    padding: 7px 7px;
+    background-color: #627486;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+input[type="text"],
+select {
+    width: 200px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+main {
+    padding: 20px;
+}
+
+body {
+    background-color: rgb(243, 243, 239);
+    background-image: url(https://img.freepik.com/vetores-premium/mapa-do-mundo-politico-com-o-conceito-de-rede-de-tecnologia-global-visualizacao-de-dados-digitais-linhas-plexo-comunicacao-de-fundo-big-data-ilustracao-cientifica-vetorial_208588-3399.jpg?w=2000);
+    color: rgb(0, 0, 0)
+}
+
+header {
+    color: blue
+}
+
+h2 {
+    margin-top: 30px;
+    font-size: 40px;
+}
+h3 {
+    font-size: 24px;
+}
+
+h1 {
+    color: rgb(0, 0, 0)
+}
+
+p {
+
+    text-align: justify;
+    font-size: 20px;
+}
