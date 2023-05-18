@@ -60,6 +60,7 @@ main {
 body {
     background-color: rgb(243, 243, 239);
     background-image: url(https://img.freepik.com/vetores-premium/mapa-do-mundo-politico-com-o-conceito-de-rede-de-tecnologia-global-visualizacao-de-dados-digitais-linhas-plexo-comunicacao-de-fundo-big-data-ilustracao-cientifica-vetorial_208588-3399.jpg?w=2000);
+    background-repeat: no-repeat;
     color: rgb(0, 0, 0)
 }
 
